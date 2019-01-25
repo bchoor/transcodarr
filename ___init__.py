@@ -1,1 +1,1 @@
-from bazarr import *
+from transcodarr import *
